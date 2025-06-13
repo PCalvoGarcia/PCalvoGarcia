@@ -19,7 +19,7 @@
 
 [//]: # (PIN  LENGUAJES PRINCIPALES)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCalvoGarcia&&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=PCalvoGarcia&&layout=pie)]
 
 ---
 
