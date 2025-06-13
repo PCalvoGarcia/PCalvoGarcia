@@ -19,7 +19,7 @@
 
 [//]: # (PIN  LENGUAJES PRINCIPALES)
 
-[![GitHub Trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=PCalvoGarcia&&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCalvoGarcia&&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -38,7 +38,8 @@
 
 # GitHub Trophies 🏆
 
-[![Readme Card](https://github-profile-trophy.vercel.app/?username=PCalvoGarcia&theme=gruvbox)](GitHub Trophies)
+[//]: # (    PIN TRFEOS)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PCalvoGarcia&theme=gruvbox)
 
 
 ---
