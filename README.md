@@ -35,6 +35,7 @@
 [//]: # (    PIN UN REPOSITORIO)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FemcodersPaulaCalvo&repo=MFPSB)](https://github.com/FemcodersPaulaCalvo/MFPSB.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-3-Electronify&repo=Electronify)](https://github.com/Team-3-Electronify/Electronify.git)
 
 # GitHub Trophies 🏆
 
