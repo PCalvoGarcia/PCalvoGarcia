@@ -38,8 +38,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-3-Electronify&repo=Electronify)](https://github.com/Team-3-Electronify/Electronify.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FemcodersPaulaCalvo&repo=MonsterShop)](https://github.com/PCalvoGarcia/MonsterShop.git)
 
-https://github.com/PCalvoGarcia/MonsterShop.git
-
 # GitHub Trophies 🏆
 
 [//]: # (    PIN TRFEOS)
