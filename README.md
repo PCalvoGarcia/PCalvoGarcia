@@ -30,10 +30,10 @@ Hi, I'm Paula! 🙋🏻‍♀️<br>✨ About me ✨<br>👋 I'm a Full Stack We
 
 [![wakatime](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/4ea4b928-2025-4149-9834-05f94fa458c9.svg)](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/4ea4b928-2025-4149-9834-05f94fa458c9)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-Factory-T6&repo=DreamFactory)](https://github.com/PCalvoGarcia/MonsterShop.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-Factory-T6&repo=DreamFactory)](https://github.com/Dream-Factory-T6/DreamFactory.git)
 
 [![wakatime](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/82e6055a-86f6-446d-97c7-ce60584acbd7.svg)](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/82e6055a-86f6-446d-97c7-ce60584acbd7)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Library-Team-3&repo=library-T3)](https://github.com/PCalvoGarcia/MonsterShop.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Library-Team-3&repo=library-T3)](https://github.com/Library-Team-3/library-T3.git)
 
 [![wakatime](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/410bb93a-423d-433a-8fd2-53563e4a2b36.svg)](https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/410bb93a-423d-433a-8fd2-53563e4a2b36)
