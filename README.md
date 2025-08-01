@@ -64,6 +64,14 @@ I'm determined, detail-oriented, and committed to growing both personally and pr
 <h1 align="center">📂 GitHub Repositories</h1>
   <span align="center">
     <div>
+      <a href="https://github.com/PCalvoGarcia/MTG.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PCalvoGarcia&repo=MTG" alt="MTG"></a>
+    <br/>
+      <a href="https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/a8b9fa89-71cf-427f-8140-dcfbde61b53c"><img src="https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/a8b9fa89-71cf-427f-8140-dcfbde61b53c.svg" alt="wakatime"></a>
+    </div>
+  <span/>
+ <br/>
+      <span align="center">
+    <div>
       <a href="https://github.com/Dream-Factory-T6/DreamFactory.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dream-Factory-T6&repo=DreamFactory" alt="DreamFactory"></a>
     <br/>
       <a href="https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/82e6055a-86f6-446d-97c7-ce60584acbd7" alt="Wakatime"><img src="https://wakatime.com/badge/user/d9ba9c20-91dd-48a5-8aa7-30676333be49/project/82e6055a-86f6-446d-97c7-ce60584acbd7.svg"></a>
